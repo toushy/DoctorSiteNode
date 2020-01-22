@@ -1,0 +1,5 @@
+E:\Dev Data\Centro Project(Mohamed Mohsen)\DoctorSite\DoctorSite\Cornet.DoctorSite.API\bin\Debug\Cornet.DoctorSite.API.dll
+E:\Dev Data\Centro Project(Mohamed Mohsen)\DoctorSite\DoctorSite\Cornet.DoctorSite.API\bin\Debug\Cornet.DoctorSite.API.pdb
+E:\Dev Data\Centro Project(Mohamed Mohsen)\DoctorSite\DoctorSite\Cornet.DoctorSite.API\obj\Debug\Cornet.DoctorSite.API.csprojResolveAssemblyReference.cache
+E:\Dev Data\Centro Project(Mohamed Mohsen)\DoctorSite\DoctorSite\Cornet.DoctorSite.API\obj\Debug\Cornet.DoctorSite.API.dll
+E:\Dev Data\Centro Project(Mohamed Mohsen)\DoctorSite\DoctorSite\Cornet.DoctorSite.API\obj\Debug\Cornet.DoctorSite.API.pdb
